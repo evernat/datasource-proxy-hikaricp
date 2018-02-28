@@ -1,1 +1,1 @@
-Use mvn spring-boot:run
+Use mvn spring-boot:run and see UnsatisfiedDependencyException instead of success.
